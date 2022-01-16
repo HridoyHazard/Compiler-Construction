@@ -32,9 +32,9 @@ First You Need to Set the path for bison and mingw compiler
 ### How To Run Code
 **Open Code Folder Using Vscode then get Terminal then write those command:**
 <p align="center">
-  <b>`win_flex` command then file name with extension then it will create lex.yy.c file</b><br>
+  <b>` win_flex ` command then file name with extension then it will create lex.yy.c file</b><br>
     <img src="ss/win_flex.png"><br>
-   <b>then `gcc lex.yy.c -o` file name you want to save </b><br>
+   <b>then ` gcc lex.yy.c -o ` file name you want to save </b><br>
     <img src="ss/gcc.png"><br>
     <b>then it will create a exe file. run exe file like this</b><br>
     <img src="ss/example1.PNG"><br>
