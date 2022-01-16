@@ -30,7 +30,7 @@ you'll get some lab code in this repo, you'll learn how to run those code and ho
 ## How To Run Code
 ### Open Code Folder Using Vscode then get Terminal then write those command:
 <p align="center">
-  <b><code> win_flex </code> command then file name with extension then it will create lex.yy.c file</b><br>
+  <b><code>win_flex</code> command then file name with extension then it will create lex.yy.c file</b><br>
     <img src="ss/win_flex.png"><br>
    <b>then <code>gcc lex.yy.c -o</code> file name you want to save </b><br>
     <img src="ss/gcc.png"><br>
