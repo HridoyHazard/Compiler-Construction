@@ -18,25 +18,26 @@ First You Need to Set the path for bison and mingw compiler
 
 <p align="center">
   <b>start and write variable</b><br>
-    <img src="ss/variable.PNG">
+    <img src="ss/variable.PNG"><br>
    <b> Environment Variable</b><br>
-    <img src="ss/edit.PNG">
+    <img src="ss/edit.PNG"><br>
     <b> Edit Path</b><br>
-    <img src="ss/path.PNG">
+    <img src="ss/path.PNG"><br>
     <b> New Path for Bison and Mingw</b><br>
-    <img src="ss/new path.PNG">
+    <img src="ss/new path.PNG"><br>
 </p>
 
 
 
 ### How To Run Code
+**Open Code Folder Using Vscode then get Terminal then write those command:**
 <p align="center">
-  <b>`win_flex` command then file name with extension</b><br>
-    <img src="ss/1.PNG">
-   <b> Enter Input</b><br>
-    <img src="ss/2.PNG">
-    <b> Invalid Input</b><br>
-    <img src="ss/3.PNG">
-    <b> Output</b><br>
-    <img src="ss/4.PNG">
+  <b>`win_flex` command then file name with extension then it will create lex.yy.c file</b><br>
+    <img src="ss/win_flex.PNG"><br>
+   <b>then `gcc lex.yy.c -o` file name you want to save </b><br>
+    <img src="ss/gcc.PNG"><br>
+    <b>then it will create a exe file. run exe file like this</b><br>
+    <img src="ss/example1.PNG"><br>
+    <b> Second Code Output</b><br>
+    <img src="ss/example2.PNG"><br>
 </p>
