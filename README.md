@@ -34,7 +34,7 @@ First You Need to Set the path for bison and mingw compiler
 <p align="center">
   <b><code> win_flex </code> command then file name with extension then it will create lex.yy.c file</b><br>
     <img src="ss/win_flex.png"><br>
-   <b>then ` gcc lex.yy.c -o ` file name you want to save </b><br>
+   <b>then <code>gcc lex.yy.c -o</code> file name you want to save </b><br>
     <img src="ss/gcc.png"><br>
     <b>then it will create a exe file. run exe file like this</b><br>
     <img src="ss/example1.PNG"><br>
