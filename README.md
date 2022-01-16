@@ -18,7 +18,7 @@ First You Need to Set the path for bison and mingw compiler
 
 <p align="center">
   <b>start and write variable</b><br>
-    <img src="ss/variable.PNG"><br>
+    <img src="ss/variable.png"><br>
    <b> Environment Variable</b><br>
     <img src="ss/edit.PNG"><br>
     <b> Edit Path</b><br>
@@ -33,9 +33,9 @@ First You Need to Set the path for bison and mingw compiler
 **Open Code Folder Using Vscode then get Terminal then write those command:**
 <p align="center">
   <b>`win_flex` command then file name with extension then it will create lex.yy.c file</b><br>
-    <img src="ss/win_flex.PNG"><br>
+    <img src="ss/win_flex.png"><br>
    <b>then `gcc lex.yy.c -o` file name you want to save </b><br>
-    <img src="ss/gcc.PNG"><br>
+    <img src="ss/gcc.png"><br>
     <b>then it will create a exe file. run exe file like this</b><br>
     <img src="ss/example1.PNG"><br>
     <b> Second Code Output</b><br>
