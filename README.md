@@ -8,13 +8,13 @@ Compiler Construction Is One Of The Major Course of CSE. You'll Get This Course 
 you'll get some lab code in this repo, before checking these code i strongly suggests you to try yourself first and then check these code if you can't solve...
 
 ### Installing Necessary Software
-*Bison 3
-*Mingw Compiler
-*Vscode
+* Bison 3
+* Mingw Compiler
+* Vscode
 
 
 ### Setup Environmnet Variable 
-First You Need to Set the path for bison and mingw compiler
+# First You Need to Set the path for bison and mingw compiler, let's show you how to set it.
 
 <p align="center">
   <b>start and write variable</b><br>
@@ -27,10 +27,8 @@ First You Need to Set the path for bison and mingw compiler
     <img src="ss/new path.PNG"><br>
 </p>
 
-
-
 ### How To Run Code
-**Open Code Folder Using Vscode then get Terminal then write those command:**
+# Open Code Folder Using Vscode then get Terminal then write those command:
 <p align="center">
   <b><code> win_flex </code> command then file name with extension then it will create lex.yy.c file</b><br>
     <img src="ss/win_flex.png"><br>
@@ -41,3 +39,6 @@ First You Need to Set the path for bison and mingw compiler
     <b> Second Code Output</b><br>
     <img src="ss/example2.PNG"><br>
 </p>
+
+### Where To Learn
+I've uploaded my teacher lectures pdf, anyone can learn from these lectures.also you can learn it from youtube and google or various educational site....
